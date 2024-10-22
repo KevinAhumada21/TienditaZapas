@@ -13,8 +13,8 @@ const geistMono = localFont({
 });
 
 export const metadata = {
-  title: "Zapatos Kathy",
-  description: "La pagina esta creada solo para mostrar detalle y modelos de las zapatillas, no para comprar en ella",
+  title: "Tienda Kathy",
+  description: "Esta página está hecha solo para ver detalle y modelos, NO para hacer compras en línea.",
 };
 
 export default function RootLayout({ children }) {
