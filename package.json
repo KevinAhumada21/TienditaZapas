@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "export": "next export",
     "start": "next start",
     "lint": "next lint"
   },
@@ -12,7 +13,7 @@
     "@react-three/fiber": "^8.17.10",
     "bootstrap": "^5.3.3",
     "mongodb": "^6.9.0",
-    "next": "14.2.15",
+    "next": "^15.0.0",
     "react": "^18",
     "react-bootstrap": "^2.10.5",
     "react-dom": "^18",
